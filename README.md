@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SJDSgit
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning machine learning for data science.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sumit.
+- 👀 I’m interested in everything related to Data.
+- 🌱 I’m actively looking for a job in Data Analytics field while sharpening my data analytics toolkit especially SQL, Python, MS-EXCEL, Matlab, R and Tableau.
+- 💞️ I’m looking to collaborate on Data Analytics projects based on Python, SQL and Tableau.
+- 📫 How to reach me: sumit.salunkhe.academics@gmail.com
 
 <!---
 SJDSgit/SJDSgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
